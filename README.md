@@ -1,10 +1,30 @@
+<div align="center">
+
+**SENAI · Técnico em Desenvolvimento de Sistemas**
+
+# Projeto – BIBLIOTECA ESCOLAR
+
+Luziânia · 2026
+
+</div>
+
+| | |
+|---|---|
+| **Componente Curricular** | Desenvolvimento de Projetos |
+| **Professora** | Érika Alves Sardinha |
+| **Alunos** | Bruno Felype Maciel de Brito, Davi de Araujo Silva, Marco Antônio Mendes dos Santos e Pedro Xavier Simões |
+| **Série** | 2º Ano Técnico |
+| **Data** | 21 de setembro de 2026 |
+
+---
+
 # Sistema de Gerenciamento de Biblioteca Escolar
 
 Software de gestão bibliotecária que substitui o controle manual em fichas de papel e cadernos por um ambiente digital centralizado, automatizando o cadastro de obras e leitores, os empréstimos e devoluções, o controle de prazos e as reservas.
 
-> Projeto desenvolvido para o componente curricular **Desenvolvimento de Projetos** do curso Técnico em Desenvolvimento de Sistemas (SENAI).
+**Status:** em desenvolvimento (primeira entrega: planejamento e diagnóstico da solução).
 
-##  O problema
+## O problema
 
 A biblioteca da instituição controla empréstimos e devoluções de forma totalmente manual. Isso causa:
 
@@ -53,12 +73,6 @@ Um sistema que centraliza toda a operação da biblioteca, com atualização de 
 
 Após o login, o sistema direciona o usuário conforme o perfil: o **bibliotecário** vai direto ao Dashboard administrativo, e o **leitor** abre a consulta ao catálogo, com a lista dos livros em sua posse e os respectivos prazos.
 
-## Equipe
+---
 
-- Bruno Felype Maciel de Brito
-- Davi de Araujo Silva
-- Marco Antônio Mendes dos Santos
-- Pedro Xavier Simões
-
-**Docente responsável:** Érika Alves Sardinha
-**Curso:** Técnico em Desenvolvimento de Sistemas, 2º ano, SENAI, Luziânia, 2026
+**SENAI** · Serviço Nacional de Aprendizagem Industrial
