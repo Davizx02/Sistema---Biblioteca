@@ -10,6 +10,10 @@
            livro.Id = proximoID++;
            _tabelaLivros.Add(livro);
         }
-        
+
+       public List<Livro> Obtertodos()
+        {
+            return_tabelaLivros;
+        } 
     }
 }
